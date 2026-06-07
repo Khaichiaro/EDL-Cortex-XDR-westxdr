@@ -1,2 +1,3 @@
 http://test.com
+https://evil.com/a/b
 https://gimbal.com/ghberwsa/ssdd
