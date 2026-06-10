@@ -2,6 +2,7 @@ domain_security
 http://0.1.3.0.6.2.ip6.arpa
 http://0.asia.pool.ntp.org
 http://124.11.35.52.in-addr.arpa
+http://125.33.230.49.in-addr.arpa
 http://365.kdocs.cn
 http://4.sophosxl.net
 http://50.111.84.34.in-addr.arpa
