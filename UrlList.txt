@@ -1,4 +1,5 @@
 domain_security
+http://4.sophosxl.net
 http://httpforever.com
 http://test.com
 https://4.sophosxl.net
