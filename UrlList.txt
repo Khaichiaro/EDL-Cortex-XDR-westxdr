@@ -7,5 +7,6 @@ http://test.com
 https://365.kdocs.cn
 https://4.sophosxl.net
 https://50.111.84.34.in-addr.arpa
+https://api.bitkub.com
 https://gimbal.com/ghberwsa/ssdd
 https://test.com
