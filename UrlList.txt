@@ -4,6 +4,7 @@ http://124.11.35.52.in-addr.arpa
 http://365.kdocs.cn
 http://4.sophosxl.net
 http://50.111.84.34.in-addr.arpa
+http://a1013.dsct.akamai.net
 http://api.bitkub.com
 http://httpforever.com
 http://test.com
