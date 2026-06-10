@@ -1,5 +1,6 @@
 domain_security
 http://httpforever.com
 http://test.com
+https://4.sophosxl.net
 https://gimbal.com/ghberwsa/ssdd
 https://test.com
