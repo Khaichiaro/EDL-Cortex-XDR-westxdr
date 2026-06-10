@@ -2,6 +2,7 @@ domain_security
 http://365.kdocs.cn
 http://4.sophosxl.net
 http://50.111.84.34.in-addr.arpa
+http://api.bitkub.com
 http://httpforever.com
 http://test.com
 https://365.kdocs.cn
