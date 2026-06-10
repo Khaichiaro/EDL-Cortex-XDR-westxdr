@@ -1,2 +1,3 @@
 0.1.3.0.6.2.ip6.arpa
+124.11.35.52.in-addr.arpa
 jaira.com
