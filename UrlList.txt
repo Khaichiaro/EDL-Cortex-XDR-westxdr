@@ -1,4 +1,5 @@
 http://1.pool.ntp.org
+http://1.ubuntu.pool.ntp.org
 http://httpforever.com
 http://test.com
 https://1.pool.ntp.org
