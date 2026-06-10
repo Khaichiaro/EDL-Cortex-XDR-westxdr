@@ -1,5 +1,6 @@
 http://httpforever.com
 http://test.com
+https://1.pool.ntp.org
 https://api.bitkub.com
 https://gimbal.com/ghberwsa/ssdd
 https://test.com
