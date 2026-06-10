@@ -12,6 +12,7 @@ https://124.11.35.52.in-addr.arpa
 https://365.kdocs.cn
 https://4.sophosxl.net
 https://50.111.84.34.in-addr.arpa
+https://a1013.dsct.akamai.net
 https://api.bitkub.com
 https://gimbal.com/ghberwsa/ssdd
 https://test.com
