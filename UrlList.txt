@@ -5,6 +5,7 @@ http://50.111.84.34.in-addr.arpa
 http://api.bitkub.com
 http://httpforever.com
 http://test.com
+https://0.1.3.0.6.2.ip6.arpa
 https://365.kdocs.cn
 https://4.sophosxl.net
 https://50.111.84.34.in-addr.arpa
