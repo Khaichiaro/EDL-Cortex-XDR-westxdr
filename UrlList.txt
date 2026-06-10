@@ -9,6 +9,7 @@ http://api.bitkub.com
 http://httpforever.com
 http://test.com
 https://0.1.3.0.6.2.ip6.arpa
+https://0.asia.pool.ntp.org
 https://124.11.35.52.in-addr.arpa
 https://365.kdocs.cn
 https://4.sophosxl.net
