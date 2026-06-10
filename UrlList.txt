@@ -3,6 +3,7 @@ http://1.ubuntu.pool.ntp.org
 http://187.175.203.34.in-addr.arpa
 http://httpforever.com
 http://test.com
+https://0.1.3.0.6.2.ip6.arpa
 https://1.pool.ntp.org
 https://1.ubuntu.pool.ntp.org
 https://187.175.203.34.in-addr.arpa
